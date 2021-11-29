@@ -35,11 +35,8 @@
 
 
 ## Demo image
-![alt text](https://quochung.cyou/wp-content/uploads/2021/07/1.jpg)
-![alt text](https://quochung.cyou/wp-content/uploads/2021/07/2.jpg)
-![alt text](https://quochung.cyou/wp-content/uploads/2021/07/3.jpg)
-![alt text](https://quochung.cyou/wp-content/uploads/2021/07/4.jpg)
-
+![Image](/06e6fb11a76c5132087d.jpg?raw=true "Image")
+![Image](/f8b2a044fc390a675328.jpg?raw=true "Image")
 
 ## License Information
 
